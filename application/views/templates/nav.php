@@ -15,10 +15,10 @@
                             <div class="main-menu  d-none d-lg-block text-right">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a class="#" href="index.html">home</a></li>
+                                        <li><a class="#" href="<?php echo base_url('Home')?>">home</a></li>
                                          <li><a href="#">About Us <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="#">Vision & Mission</a></li>
+                                                <li><a href="<?php echo base_url('about/Visi')?>">Vision & Mission</a></li>
                                                 <li><a href="#">Profile Perusahaan</a></li>
                                                 <li><a href="#">Contact Us</a></li>
                                             </ul>

@@ -1,12 +1,5 @@
 <div class="about_wrap_area">
         <div class="container">
-            <!-- <div class="row justify-content-center">
-                <div class="col-lg-11">
-                    <div class="about_heading text-center">
-                        <h3>Consumer and trends research capabilities we design for tomorrow customers in tomorrow’s markets.</h3>
-                    </div>
-                </div>
-            </div> -->
             <div class="about_info_wrap">
                 <div class="row">
                     <div class="col-lg-6">

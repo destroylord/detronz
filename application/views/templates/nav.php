@@ -20,14 +20,14 @@
                                             <ul class="submenu">
                                                 <li><a href="<?php echo base_url('about/Visi')?>">Vision & Mission</a></li>
                                                 <li><a href="#">Profile Perusahaan</a></li>
-                                                <li><a href="#">Contact Us</a></li>
+                                                <li><a href="<?php echo base_url('about/Contact')?>">Contact Us</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">News</a></li>
                                          <li><a href="#">Articles</a></li>
                                         <li><a href="#">Products <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                    <li><a href="#">Portfolio work</a></li>
+                                                <li><a href="#">Portfolio work</a></li>
                                                  <li><a href="#">work details</a></li>
                                                  <li><a href="#">Services</a></li>
                                                  <li><a href="#">elements</a></li>

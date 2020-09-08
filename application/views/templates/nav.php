@@ -19,7 +19,7 @@
                                          <li><a href="#">About Us <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="<?php echo base_url('about/Visi')?>">Vision & Mission</a></li>
-                                                <li><a href="#">Profile Perusahaan</a></li>
+                                                <li><a href="<?php echo base_url('about/Profile')?>">Profile Perusahaan</a></li>
                                                 <li><a href="<?php echo base_url('about/Contact')?>">Contact Us</a></li>
                                             </ul>
                                         </li>
